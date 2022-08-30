@@ -1,0 +1,30 @@
+{
+  "id": "3918ec72-4489-40ed-9779-bde71aac1764",
+  "name": "Demo-FilterGroupNegativeOne",
+  "publisher": "Spare Brained Ideas",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 68100,
+      "to": 68149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0",
+  "features": ["NoImplicitWith"]
+}
